@@ -5,12 +5,13 @@
     <div class="row">
         <div class="col-md-10 col-md-offset-1">
             <div class="panel panel-primary">
+                <div class="panel-heading">Dashboard</div>
+
                 <div class="panel-body">
-                   <h3>Welcome</h3>
-                   <p>This is a sample content</p>
-               </div>
-           </div>
-       </div>
-   </div>
+                    You are logged in!
+                </div>
+            </div>
+        </div>
+    </div>
 </div>
 @endsection
